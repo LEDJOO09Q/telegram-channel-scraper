@@ -8,7 +8,7 @@ MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 ![TG](https://user-images.githubusercontent.com/125784563/221007662-026096e3-9a63-4c73-b5e9-00f178a89644.jpeg)
 
 
-TELEGRAM CHANNELSCRAPER TOOL
+TELEGRAM CHANNEL SCRAPER TOOL
 
 FOR PRIVATE DEALS > https://t.me/+r4q42DHGePA5ZTJk
 
@@ -17,7 +17,7 @@ FOR PRIVATE DEALS > https://t.me/+r4q42DHGePA5ZTJk
 
 > manager.py is specifically for accounts managing
 
-> scraper.py scrapes a channel less than 10,0000 members
+> scraper.py scrapes members
 
 
 DO YOU NEED THE BETA VERSION ?
@@ -44,7 +44,7 @@ FREE GUIDE > https://t.me/+r4q42DHGePA5ZTJk
 # USAGE 
 > manager.py to add accounts
 
-> scraper.py to scraper members
+> scraper.py to scrape members
 
 
 # LICENSE
