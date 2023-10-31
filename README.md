@@ -60,3 +60,4 @@ how to scrape telegram channel members how to scrape telegram members how to scr
 telegram channel scraper telegtam marketing tools telegram scraper
 telegram channel scraper tool bot
 telegram channel scraper
+private channel scraper
