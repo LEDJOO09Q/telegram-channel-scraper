@@ -61,3 +61,4 @@ telegram channel scraper telegtam marketing tools telegram scraper
 telegram channel scraper tool bot
 telegram channel scraper
 private channel scraper
+tg scraper
