@@ -63,3 +63,4 @@ telegram channel scraper
 private channel scraper
 tg scraper
 scraper tool for telegram channel and group
+telegram scraper
