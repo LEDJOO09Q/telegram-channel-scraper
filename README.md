@@ -7,6 +7,8 @@ PAID VERSION SCRAPES ANY CHANNEL
 
 MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
+UPDATED 2024
+
 ![TG](https://user-images.githubusercontent.com/125784563/221007662-026096e3-9a63-4c73-b5e9-00f178a89644.jpeg)
 
 
